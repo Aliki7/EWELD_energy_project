@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 .venv/
 data/ 
+requirements.txt/
+.vscode/
 # C extensions
 *.so
 
