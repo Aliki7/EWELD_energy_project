@@ -2,9 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
-.venv/
+.venv_e310/
 data/ 
-requirements.txt/
+requirements.txt
 .vscode/
 # C extensions
 *.so
